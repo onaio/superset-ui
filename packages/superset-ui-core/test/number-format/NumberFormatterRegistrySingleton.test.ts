@@ -3,7 +3,7 @@ import {
   getNumberFormatterRegistry,
   getNumberFormatter,
   formatNumber,
-} from '@superset-ui/core';
+} from '@superset-ui/core/src';
 
 describe('NumberFormatterRegistrySingleton', () => {
   describe('getNumberFormatterRegistry()', () => {

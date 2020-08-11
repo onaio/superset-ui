@@ -1,4 +1,4 @@
-import { NumberFormatter, createSmartNumberFormatter } from '@superset-ui/core';
+import { NumberFormatter, createSmartNumberFormatter } from '@superset-ui/core/src';
 
 describe('createSmartNumberFormatter(options)', () => {
   it('creates an instance of NumberFormatter', () => {
