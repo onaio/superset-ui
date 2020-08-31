@@ -3229,6 +3229,15 @@
     conventional-changelog-cli "^2.0.12"
     cz-conventional-changelog "^2.1.0"
 
+"@superset-ui/legacy-plugin-chart-country-map@^0.11.15":
+  version "0.11.15"
+  resolved "https://registry.yarnpkg.com/@superset-ui/legacy-plugin-chart-country-map/-/legacy-plugin-chart-country-map-0.11.15.tgz#601c529a7c2518a1aa470bd12ba8016c460337d4"
+  integrity sha512-92YoyEJxeJcXTf2uS838X6of5LXWc2wUFUtEzXTkZU2kCfmKtZ34/mtEPuOalHDzV/wDEniv+OkcCK2NxpCQxw==
+  dependencies:
+    d3 "^3.5.17"
+    d3-array "^2.0.3"
+    prop-types "^15.6.2"
+
 "@superset-ui/legacy-plugin-chart-word-cloud@^0.11.15":
   version "0.11.15"
   resolved "https://registry.yarnpkg.com/@superset-ui/legacy-plugin-chart-word-cloud/-/legacy-plugin-chart-word-cloud-0.11.15.tgz#70a146aaf3cf1977c29086c069f0216325f092b2"
