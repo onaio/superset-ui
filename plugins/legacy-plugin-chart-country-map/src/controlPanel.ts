@@ -53,6 +53,7 @@ const config: ControlPanelConfig = {
                 'France',
                 'Germany',
                 'India',
+                'Indonesia',
                 'Iran',
                 'Italy',
                 'Japan',
