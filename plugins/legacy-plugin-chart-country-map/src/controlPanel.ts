@@ -56,6 +56,7 @@ const config: ControlPanelConfig = {
                 'Iran',
                 'Italy',
                 'Japan',
+                'Kenya',
                 'Korea',
                 'Liechtenstein',
                 'Morocco',
